@@ -1,0 +1,3 @@
+Berlin 10
+London 23
+Wroclaw 8
